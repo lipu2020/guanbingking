@@ -1,0 +1,14 @@
+G:\展联项目\灌饼王\guanbingking\Dal\obj\Debug\Dal.csprojResolveAssemblyReference.cache
+G:\展联项目\灌饼王\guanbingking\Dal\bin\Debug\Dal.dll
+G:\展联项目\灌饼王\guanbingking\Dal\bin\Debug\Dal.pdb
+G:\展联项目\灌饼王\guanbingking\Dal\bin\Debug\Model.dll
+G:\展联项目\灌饼王\guanbingking\Dal\bin\Debug\Model.pdb
+G:\展联项目\灌饼王\guanbingking\Dal\obj\Debug\Dal.dll
+G:\展联项目\灌饼王\guanbingking\Dal\obj\Debug\Dal.pdb
+F:\NETwork\guanbingking\Dal\bin\Debug\Dal.dll
+F:\NETwork\guanbingking\Dal\bin\Debug\Dal.pdb
+F:\NETwork\guanbingking\Dal\bin\Debug\Model.dll
+F:\NETwork\guanbingking\Dal\bin\Debug\Model.pdb
+F:\NETwork\guanbingking\Dal\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\NETwork\guanbingking\Dal\obj\Debug\Dal.dll
+F:\NETwork\guanbingking\Dal\obj\Debug\Dal.pdb
