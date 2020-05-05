@@ -18,3 +18,13 @@ F:\NETwork\guanbingking\Bll\bin\Debug\Model.pdb
 F:\NETwork\guanbingking\Bll\obj\Debug\BLL.csprojResolveAssemblyReference.cache
 F:\NETwork\guanbingking\Bll\obj\Debug\Bll.dll
 F:\NETwork\guanbingking\Bll\obj\Debug\Bll.pdb
+E:\NETworks\guanbingking\Bll\bin\Debug\Bll.dll
+E:\NETworks\guanbingking\Bll\bin\Debug\Bll.pdb
+E:\NETworks\guanbingking\Bll\bin\Debug\Dal.dll
+E:\NETworks\guanbingking\Bll\bin\Debug\Model.dll
+E:\NETworks\guanbingking\Bll\bin\Debug\DBUtility.dll
+E:\NETworks\guanbingking\Bll\bin\Debug\Dal.pdb
+E:\NETworks\guanbingking\Bll\bin\Debug\Model.pdb
+E:\NETworks\guanbingking\Bll\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\NETworks\guanbingking\Bll\obj\Debug\Bll.dll
+E:\NETworks\guanbingking\Bll\obj\Debug\Bll.pdb

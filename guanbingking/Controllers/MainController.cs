@@ -12,10 +12,13 @@ using System.Text;
 
 namespace guanbingking.Controllers
 {
+
     public class MainController : Controller
     {
         //
         // GET: /Main/
+        [Filters.AuthorizeFilter]
+        [Filters.CrudAction]
         [HttpGet]
         public ActionResult Index()
         {
@@ -56,6 +59,7 @@ namespace guanbingking.Controllers
         }
 
         //退出操作
+        [Filters.AuthorizeFilter]
         [HttpGet]
         public ActionResult LoginOut()
         {
@@ -66,6 +70,7 @@ namespace guanbingking.Controllers
 
         //获取菜单
         [HttpPost]
+        [Filters.AuthorizeFilter]
         public ActionResult Menu()
         {
             string id = Common.Security.DESDecrypt(Request.Cookies["account"].Values["id"].ToString());

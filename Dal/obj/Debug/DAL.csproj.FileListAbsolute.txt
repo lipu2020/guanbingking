@@ -12,3 +12,10 @@ F:\NETwork\guanbingking\Dal\bin\Debug\Model.pdb
 F:\NETwork\guanbingking\Dal\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 F:\NETwork\guanbingking\Dal\obj\Debug\Dal.dll
 F:\NETwork\guanbingking\Dal\obj\Debug\Dal.pdb
+E:\NETworks\guanbingking\Dal\bin\Debug\Dal.dll
+E:\NETworks\guanbingking\Dal\bin\Debug\Dal.pdb
+E:\NETworks\guanbingking\Dal\bin\Debug\Model.dll
+E:\NETworks\guanbingking\Dal\bin\Debug\Model.pdb
+E:\NETworks\guanbingking\Dal\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\NETworks\guanbingking\Dal\obj\Debug\Dal.dll
+E:\NETworks\guanbingking\Dal\obj\Debug\Dal.pdb

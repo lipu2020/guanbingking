@@ -114,6 +114,7 @@
     <Compile Include="Common\WebCookie.cs" />
     <Compile Include="Controllers\MainController.cs" />
     <Compile Include="Controllers\SuppliersController.cs" />
+    <Compile Include="Controllers\OrderController.cs" />
     <Compile Include="Filters\AuthorizeFilter.cs" />
     <Compile Include="Filters\CrudAction.cs" />
     <Compile Include="Global.asax.cs">
@@ -244,7 +245,9 @@
     <Content Include="Static\lib\layui\lay\modules\tree.js" />
     <Content Include="Static\lib\layui\lay\modules\upload.js" />
     <Content Include="Static\lib\layui\lay\modules\util.js" />
-    <Content Include="Web.config" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </Content>
@@ -295,6 +298,12 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\Suppliers\Show.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Order\Index.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Order\Show.cshtml" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

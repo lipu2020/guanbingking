@@ -7,3 +7,7 @@ F:\NETwork\guanbingking\Model\bin\Debug\Model.pdb
 F:\NETwork\guanbingking\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
 F:\NETwork\guanbingking\Model\obj\Debug\Model.dll
 F:\NETwork\guanbingking\Model\obj\Debug\Model.pdb
+E:\NETworks\guanbingking\Model\bin\Debug\Model.dll
+E:\NETworks\guanbingking\Model\bin\Debug\Model.pdb
+E:\NETworks\guanbingking\Model\obj\Debug\Model.dll
+E:\NETworks\guanbingking\Model\obj\Debug\Model.pdb
