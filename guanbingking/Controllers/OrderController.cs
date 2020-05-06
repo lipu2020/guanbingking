@@ -78,6 +78,7 @@ namespace guanbingking.Controllers
             sb.Append("]}}");
 
             return Content(sb.ToString());
+
         }
 
         [HttpGet]
