@@ -68,6 +68,7 @@ namespace guanbingking.Controllers
             return Redirect(Url.Action("login", "main"));
         }
 
+
         //获取菜单
         [HttpPost]
         [Filters.AuthorizeFilter]
