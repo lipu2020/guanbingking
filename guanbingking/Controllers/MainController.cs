@@ -35,7 +35,7 @@ namespace guanbingking.Controllers
         [HttpPost]
         public ActionResult Login(string UserName, string UserPwd)
         {
-            Model.Account ac = new BLL.Account().Login(UserName, Common.Security.Md5Hash(UserPwd));
+            Model.Account ac = new BLL.Account().Login(UserName, Common.Security.Md5Hash(UserPwd),"0,1");
             if (ac != null)
             {
                 WebCookie.AddCookie(ac.Id.ToString(),ac.AccountName,ac.AType.ToString(),ac.CompanyId.ToString());//存cookie

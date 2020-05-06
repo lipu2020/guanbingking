@@ -55,6 +55,7 @@ namespace guanbingking.Controllers
                 sb.Append(",\"contactMobile\":" + dt.Rows[i]["ContactMobile"]);
                 sb.Append(",\"address\":\"" + dt.Rows[i]["Address"] + "\"");
                 sb.Append(",\"amount\":" + dt.Rows[i]["Amount"]);
+                sb.Append(",\"cost\":" + dt.Rows[i]["Cost"]);
                 sb.Append(",\"createDate\":\"" + dt.Rows[i]["CreateDate"] + "\"");
                 if (dt.Rows[i]["Status"].ToString()=="0")
                 {

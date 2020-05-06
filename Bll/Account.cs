@@ -188,9 +188,9 @@ namespace guanbingking.BLL
 
 		#endregion  BasicMethod
 		#region  ExtensionMethod
-        public Model.Account Login(string name, string pwd)
+        public Model.Account Login(string name, string pwd, string atype)
         {
-            List<Model.Account> list = GetModelList("accountname='"+name+"' and accountpwd='"+pwd+"'");
+            List<Model.Account> list = GetModelList("accountname='" + name + "' and accountpwd='" + pwd + "' and AType in (" + atype + ")");
             if (list.Count == 1)
             {
                 return list[0];
