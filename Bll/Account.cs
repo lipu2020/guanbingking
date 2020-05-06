@@ -190,7 +190,7 @@ namespace guanbingking.BLL
 		#region  ExtensionMethod
         public Model.Account Login(string name, string pwd)
         {
-            List<Model.Account> list = GetModelList("accountname='"+name+"' and accountpwd='"+pwd+"'");
+            List<Model.Account> list = GetModelList("accountname='" + name + "' and accountpwd='" + pwd + "' and AType in (0,1)");
             if (list.Count == 1)
             {
                 return list[0];
